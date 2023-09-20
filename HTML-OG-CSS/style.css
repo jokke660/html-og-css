@@ -112,5 +112,11 @@ p{
 #subscribe{
     background-color: #fff;
     padding: 1rem;
+    text-align: center;
 
+}
+
+#subscribe form label, #subscribe form input{
+    display: block;
+    margin: 0 auto;
 }
